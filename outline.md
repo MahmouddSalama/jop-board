@@ -9,7 +9,6 @@ job
     - job nature
     - category
     - experance 
-    - gender
 
 
     - apply job
